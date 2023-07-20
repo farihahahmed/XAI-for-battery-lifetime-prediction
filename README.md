@@ -12,7 +12,7 @@ Authors: Farihah Ahmed, Mauricio Hernandez
 - RESULTS: lowest classification error is 4% (better than current state-of-the-art models) and lowest regression Mean Percent Error is 11.8% (comparable to state-of-the-art models).
 
 - IMPLICATIONS:
-  (1) overcome accuracy-explainability tradeoff in XAI field with novel XAI models built from scratch
+1. overcome accuracy-explainability tradeoff in XAI field with novel XAI models built from scratch
   (2) reveal greater insights about how battery lifetime is determined--helping battery manufacturers accelerate the R&D process
   (3) increase trust battery manufacturers and EV consumers using this model--overcoming a massive barrier to the wider deployment of Lithium-ion batteries
   (4) call for greater deployment of XAI in all fields (we demonstrate that it is indeed possible to have both explainable and accurate AI, in order to increase societal trust in AI.
