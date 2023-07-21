@@ -1,6 +1,7 @@
 # Novel explainable AI for predicting battery lifetime: comparable accuracy to state- of-the-art black-box models
 
-Authors: Farihah Ahmed, Mauricio Hernandez
+Authors: Farihah Ahmed (Columbia University), Mauricio Hernandez (Duke University)
+Mentor: Mauricio Hernandez
 
 - WHY? Battery lifetime prediction is a critical problem for electric vehicle (EV) users’ range maximization and battery manufacturers’ faster research and development (R&D). While a growing subfield of accurate AI has been applied to predict the nonlinear degradation mechanisms of batteries, there is a lack of explainable AI (XAI) in the field, inhibiting the deployment of these models due to missing trust and confidence from end- users in the models’ black-box decision-making.
 
