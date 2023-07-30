@@ -6,5 +6,7 @@
 
 **Hyperparameter tuning files:** same files, but they begin with PARAMS.
 
+**BuildPkl files**: used to make pickle dumps of the three batches of cells
+
 Many here are experimental files, such as the files beginning with 'outliers' (we took out the outliers to see the impact on results).
 
