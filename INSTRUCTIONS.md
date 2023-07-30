@@ -1,4 +1,4 @@
-# How to use instructions
+# How to use instructions 
 
 **Load Data.ipynb** can be used to convert the raw data into usable file formats. For raw data, see https://www.nature.com/articles/s41560-019-0356-8.
 
