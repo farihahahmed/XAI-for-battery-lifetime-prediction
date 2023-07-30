@@ -1,5 +1,7 @@
 # Novel explainable AI for predicting battery lifetime: comparable accuracy to state- of-the-art black-box models
 
+See INSTRUCTIONS.md
+
 **Authors:** Farihah Ahmed (Columbia University) and Mauricio Hernandez (Duke University)
 
 **Mentor:** Mauricio Hernandez
